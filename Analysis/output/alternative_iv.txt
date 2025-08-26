@@ -1,0 +1,13 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	ln citation (Baseline)	ln citation (Transportation)	ln citation (Weather)
+				
+fraction_of_all_immigrants	Fr. immigrants	0.657**	3.130**	-3.573**
+		(0.308)	(1.398)	(1.571)
+				
+City FE		Yes	Yes	Yes
+Time FE		Yes	Yes	Yes
+~		~	~	~
+Kleibergen–Paap F-stat		1408.85	10.42	11.63
+Number of Observations		11930	11961	11961
+Number of Cities		265	268	268
+$ R^2$		0.003	-0.007	-0.053

@@ -1,0 +1,25 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	Citation	Citation	Citation	Citation	Citation	Citation
+							
+fraction_of_high_skill_imm	Fr. high skilled immigrants	39.13***	5.020**	3.844*	3.274*	3.268*	3.245*
+		(13.95)	(2.400)	(1.955)	(1.796)	(1.799)	(1.792)
+share_ji	Initial share			0.762	0.929	0.932	0.934
+				(1.322)	(1.308)	(1.307)	(1.307)
+pop	City population (10,000)				0.00223**	0.00234**	0.00219*
+					(0.00109)	(0.00112)	(0.00113)
+dens_pop	Population density				-0.00173***	-0.00191***	-0.00187***
+					(0.000572)	(0.000645)	(0.000644)
+gdp_pc	GDP per capita					2.24e-06*	2.48e-06*
+						(1.31e-06)	(1.33e-06)
+ind_gdp	Industrial added value/GDP					2.515***	2.394***
+						(0.766)	(0.771)
+stud_ratio	Student ratio						0.146
+							(0.446)
+							
+City FE		No	Yes	Yes	Yes	Yes	Yes
+Time FE		No	Yes	Yes	Yes	Yes	Yes
+~		~	~	~	~	~	~
+Kleibergen–Paap F-stat		12.73	11.96	8.96	9.14	9.14	9.14
+Number of Observations		11932	11930	11930	10101	10095	10053
+Number of Cities		267	265	265	264	263	263
+$ R^2$		0.037	0.004	0.004	0.005	0.007	0.007

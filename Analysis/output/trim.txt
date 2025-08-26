@@ -1,0 +1,16 @@
+		(1)	(2)	(3)	(4)	(5)
+VARIABLES	LABELS	Citation	Citation	Citation	Citation	Citation
+						
+fraction_of_all_immigrants	Fr. immigrants	5.174***	0.972**	0.940**	0.835**	0.971***
+		(0.925)	(0.391)	(0.382)	(0.337)	(0.321)
+						
+Initial Share		No	No	Yes	Yes	Yes
+City Controls		No	No	No	Yes	Yes
+Immigrants Characteristics		No	No	No	No	Yes
+City FE		No	Yes	Yes	Yes	Yes
+Time FE		No	Yes	Yes	Yes	Yes
+~		~	~	~	~	~
+Kleibergen–Paap F-stat		2139.53	1405.93	1118.81	1115.42	1078.25
+Number of Observations		11813	11811	11811	9976	9976
+Number of Cities		267	265	265	263	263
+$ R^2$		0.033	0.005	0.005	0.007	0.060
