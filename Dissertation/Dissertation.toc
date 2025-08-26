@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Literature Review}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Effect of Migration and the Institutional Context}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Knowledge Diffusion and Patent Citations}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Effect of Immigration on Knowledge Diffusion}{9}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Data}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Data Sources}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Data Processing}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Data Description}{14}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Empirical Strategy}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Baseline Estimating Equation}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Shift-share Instrument Construction}{19}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}First Stage Regression}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Two-Stage Equations}{23}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Results}{24}{section.5}%
+\contentsline {subsection}{\numberline {5.1}The Effect of Immigration on Knowledge Inflow}{25}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Heterogeneity by Migrant Type}{28}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Regional Heterogeneity}{31}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Mechanisms}{33}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Robustness Checks}{36}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Pre-Trends}{36}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Shock-level Balance Test}{37}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Alternative Instrument}{38}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Conclusion}{40}{section.7}%
+\contentsline {section}{References}{43}{section.7}%
+\contentsline {section}{Appendix}{49}{section*.24}%

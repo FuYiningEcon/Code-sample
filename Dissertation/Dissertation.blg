@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Dissertation.aux
+The style file: agsm.bst
+Database file #1: Library.bib
+Warning--empty institution in colucciaReturnInnovationKnowledge2025
+You've used 53 entries,
+            2909 wiz_defined-function locations,
+            1001 strings with 16880 characters,
+and the built_in function-call counts, 206167 in all, are:
+= -- 33136
+> -- 3061
+< -- 1
++ -- 15691
+- -- 924
+* -- 17929
+:= -- 41623
+add.period$ -- 53
+call.type$ -- 53
+change.case$ -- 741
+chr.to.int$ -- 53
+cite$ -- 54
+duplicate$ -- 837
+empty$ -- 1826
+format.name$ -- 1129
+if$ -- 36973
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 49
+newline$ -- 162
+num.names$ -- 553
+pop$ -- 189
+preamble$ -- 1
+purify$ -- 795
+quote$ -- 0
+skip$ -- 719
+stack$ -- 0
+substring$ -- 46625
+swap$ -- 157
+text.length$ -- 743
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 208
+warning$ -- 1
+while$ -- 1192
+width$ -- 0
+write$ -- 684
+(There was 1 warning)
